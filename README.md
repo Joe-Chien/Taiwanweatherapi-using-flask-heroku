@@ -1,1 +1,2 @@
-# Taiwanweatherapi-using-flask-heroku
+# 中央氣象局 api(一般天氣預報-今明36小時天氣預報)
+# 運用Flask框架 佈署至heroku
